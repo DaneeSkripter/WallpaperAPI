@@ -12,4 +12,4 @@
 4. Create a pull request
 5. Then wait until it will aprooved
 ### Requirements
-- Wallpaper must be **.jpg** or **.png**
+- Wallpaper must be **.jpg**, **.png** or **.gif**
