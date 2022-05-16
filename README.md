@@ -13,3 +13,5 @@
 5. Then wait until it will aprooved
 ### Requirements
 - Wallpaper must be **.jpg**, **.png** or **.gif**
+- Minimal resolution for desktop: **1280 x 720**
+- Minimal resoulution for phone: **720 x 1280**
