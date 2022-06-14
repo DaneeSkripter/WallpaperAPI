@@ -1,7 +1,7 @@
 # WallpaperAPI
 # !!! CURRENT INFO !!!
 WallpaperAPI is down! I'm gonna fix it!
-![](https://clickimg.xyz/imgv7lt.png)
+![](https://clickimg.xyz/img/SdPEn.png)
 ## About
 - Wallpaper API can randomly generate wallpapers from other users
 - If you want add your favorite wallpaper check Contribution tab!
